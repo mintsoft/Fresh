@@ -9,6 +9,10 @@ Based heavily upon 'Plain' by IZT (https://www.xfce-look.org/p/1016183/)
 
 ![Screenshot2](/../screenies/mousepad.png?raw=true "Mousepad")
 
+![Other Hover](/../screenies/highlight.png?raw=true "Other Mouseover")
+
+![Close Hover](/../screenies/close.png?raw=true "Close Mouseover")
+
 ## Installation Instructions ##
 
 Pretty straight forward:
