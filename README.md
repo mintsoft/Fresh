@@ -1,5 +1,5 @@
 # Fresh
-XFCE theme, square and simple
+XFCE theme, square and simple that adopts the colourscheme set by the Style in Appearance (i.e. `xfce-flat` etc).
 
 Based heavily upon 'Plain' by IZT (https://www.xfce-look.org/p/1016183/)
 
